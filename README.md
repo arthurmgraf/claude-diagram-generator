@@ -22,7 +22,9 @@ No Claude Code:
 
 Os diagramas vão pra `diagrams/generated/`
 
-Abre no [excalidraw.com](https://excalidraw.com), edita e exporta PNG/SVG.
+Pra visualizar/editar:
+- **Na IDE:** instala a extensão [Excalidraw](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) no VS Code
+- **No browser:** abre no [excalidraw.com](https://excalidraw.com)
 
 ## Opções
 
