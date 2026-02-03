@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated diagrams (users will have their own)
+diagrams/generated/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
